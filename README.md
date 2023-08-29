@@ -1,10 +1,8 @@
 # RealBy
 
-[Frontend]()
+[Frontend](https://github.com/vinylstage/Realby)
 
 [Backend](https://github.com/hanilcome/Realby_project)
-
-## Item of the Day
 
 
 ## Start Routine
